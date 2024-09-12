@@ -1,6 +1,6 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
-public class Hero extends Actor
+public class Baby extends Actor
 {
     boolean atTop = true;
     public void act()
